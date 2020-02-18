@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhoneInfo> 
+  <Brand name="HUAWEI"> 
+    <Type model="U8650">3000</Type>  
+    <Type model="HW123">3500</Type>  
+    <Type model="HW456">4000</Type> 
+  </Brand> 
+</PhoneInfo>

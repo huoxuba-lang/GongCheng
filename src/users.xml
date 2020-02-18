@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+  <user>
+    <name>a</name>
+    <pwd>a</pwd>
+    <phonenum>1398796069</phonenum>
+    <money>10.0</money>
+  </user>
+  <user>
+    <name>b</name>
+    <pwd>b</pwd>
+    <phonenum>1392823473</phonenum>
+    <money>30.0</money>
+  </user>
+</users>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student age = "25"><!--如果没有age属性，默认为20-->
+        <name>崔卫兵</name>
+        <college>PC学院</college>
+        <telephone>62354666</telephone>
+        <notes>男，1982年生，硕士，现就读于北京邮电大学</notes>
+    </student>
+    <student>
+        <name>张洪泽</name>
+        <college leader = "leader">PC学院</college><!--如果没有leader属性，默认为leader-->
+        <telephone>62358888</telephone>
+        <notes>男，1987年生，硕士，现就读于中国农业大学</notes>
+    </student>
+</students>
+    

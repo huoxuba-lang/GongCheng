@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PhoneInfo> 
+  <Brand name="OPPO"> 
+    <Type model="R15">3000</Type>  
+    <Type model="A57">2500</Type>  
+    <Type model="R19">4000</Type> 
+  </Brand>  
+  <Brand name="OPPO"> 
+    <Type model="R17">2333</Type> 
+  </Brand> 
+</PhoneInfo>

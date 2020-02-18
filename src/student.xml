@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student >
+        <name >苏鸿</name>
+        <age>20</age>
+        <school>北方交大</school>
+    </student>
+    <student >
+        <name>李明</name>
+        <age>21</age>
+        <school>北大</school>
+    </student>
+</students>
